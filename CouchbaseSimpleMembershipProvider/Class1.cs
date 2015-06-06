@@ -8,5 +8,6 @@ namespace CouchbaseSimpleMembershipProvider
 {
     public class Class1
     {
+
     }
 }
